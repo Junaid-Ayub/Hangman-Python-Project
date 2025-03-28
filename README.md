@@ -15,7 +15,7 @@ In this classic word-guessing game, you must correctly guess the **hidden fruit 
 ✔️ Randomized **fruit names** for a new challenge each time  
 ✔️ **Guessed letters tracking** to prevent duplicate inputs  
 ✔️ **6 attempts limit** for added difficulty  
-✔️ Interactive and **beginner-friendly gameplay**  
+✔️ Interactive and **beginner-friendly gameplay*
 
 ## 🚀 How to Play  
 1. Clone this repository and navigate to the folder:  
